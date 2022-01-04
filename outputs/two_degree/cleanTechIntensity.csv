@@ -1,0 +1,1345 @@
+Technology, Material, Tech Intensity
+Oil,Aluminum,500.000000
+Oil,Antimony,0.000000
+Oil,Arsenic,0.000000
+Oil,Baryte,0.000000
+Oil,Beryllium,0.000000
+Oil,Bismuth,0.000000
+Oil,Borate,0.000000
+Oil,Boron,0.000000
+Oil,Cadmium,0.000000
+Oil,Cerium (REE),0.000000
+Oil,Chromium,0.000000
+Oil,Cobalt,0.000000
+Oil,Copper,90.000000
+Oil,Dysprosium (REE),0.000000
+Oil,Erbium (REE),0.000000
+Oil,Europium (REE),0.000000
+Oil,Fluorspar,0.000000
+Oil,Gadolinium (REE),0.000000
+Oil,Gallium,0.000000
+Oil,Germanium,0.000000
+Oil,Gold,0.000000
+Oil,Graphite,0.000000
+Oil,Hafnium,0.000000
+Oil,Helium,0.000000
+Oil,Holmium (REE),0.000000
+Oil,Indium,0.000000
+Oil,Iridium,0.000000
+Oil,Iron,0.000000
+Oil,Lanthanum (REE),0.000000
+Oil,Lead,0.000000
+Oil,Lithium,0.000000
+Oil,Lutetium (REE),0.000000
+Oil,Magnesium,0.000000
+Oil,Manganese,0.000000
+Oil,Molybdenum,0.000000
+Oil,Neodymium (REE),0.000000
+Oil,Nickel,0.000000
+Oil,Niobium,0.000000
+Oil,Palladium,0.000000
+Oil,Phosphate rock,0.000000
+Oil,Phosphorus,0.000000
+Oil,Platinum,0.000000
+Oil,Praseodymium (REE),0.000000
+Oil,Rhenium,0.000000
+Oil,Rhodium,0.000000
+Oil,Ruthenium,0.000000
+Oil,Samarium (REE),0.000000
+Oil,Scandium (REE),0.000000
+Oil,Selenium,0.000000
+Oil,Silicon,0.000000
+Oil,Silver,0.000000
+Oil,Steel,52500.000000
+Oil,Tantalum,0.000000
+Oil,Tellurium,0.000000
+Oil,Terbium (REE),0.000000
+Oil,Thulium,0.000000
+Oil,Tin,0.000000
+Oil,Titanium,0.000000
+Oil,Tungsten,0.000000
+Oil,Vanadium,0.000000
+Oil,Yetterbium (REE),0.000000
+Oil,Yttrium (REE),0.000000
+Oil,Zinc,0.000000
+Oil,Zirconium,0.000000
+Coal,Aluminum,500.000000
+Coal,Antimony,0.000000
+Coal,Arsenic,0.000000
+Coal,Baryte,0.000000
+Coal,Beryllium,0.000000
+Coal,Bismuth,0.000000
+Coal,Borate,0.000000
+Coal,Boron,0.000000
+Coal,Cadmium,0.000000
+Coal,Cerium (REE),0.000000
+Coal,Chromium,0.000000
+Coal,Cobalt,0.000000
+Coal,Copper,90.000000
+Coal,Dysprosium (REE),0.000000
+Coal,Erbium (REE),0.000000
+Coal,Europium (REE),0.000000
+Coal,Fluorspar,0.000000
+Coal,Gadolinium (REE),0.000000
+Coal,Gallium,0.000000
+Coal,Germanium,0.000000
+Coal,Gold,0.000000
+Coal,Graphite,0.000000
+Coal,Hafnium,0.000000
+Coal,Helium,0.000000
+Coal,Holmium (REE),0.000000
+Coal,Indium,0.000000
+Coal,Iridium,0.000000
+Coal,Iron,0.000000
+Coal,Lanthanum (REE),0.000000
+Coal,Lead,0.000000
+Coal,Lithium,0.000000
+Coal,Lutetium (REE),0.000000
+Coal,Magnesium,0.000000
+Coal,Manganese,0.000000
+Coal,Molybdenum,0.000000
+Coal,Neodymium (REE),0.000000
+Coal,Nickel,0.000000
+Coal,Niobium,0.000000
+Coal,Palladium,0.000000
+Coal,Phosphate rock,0.000000
+Coal,Phosphorus,0.000000
+Coal,Platinum,0.000000
+Coal,Praseodymium (REE),0.000000
+Coal,Rhenium,0.000000
+Coal,Rhodium,0.000000
+Coal,Ruthenium,0.000000
+Coal,Samarium (REE),0.000000
+Coal,Scandium (REE),0.000000
+Coal,Selenium,0.000000
+Coal,Silicon,0.000000
+Coal,Silver,0.000000
+Coal,Steel,52500.000000
+Coal,Tantalum,0.000000
+Coal,Tellurium,0.000000
+Coal,Terbium (REE),0.000000
+Coal,Thulium,0.000000
+Coal,Tin,0.000000
+Coal,Titanium,0.000000
+Coal,Tungsten,0.000000
+Coal,Vanadium,0.000000
+Coal,Yetterbium (REE),0.000000
+Coal,Yttrium (REE),0.000000
+Coal,Zinc,0.000000
+Coal,Zirconium,0.000000
+CoalCCS,Aluminum,500.000000
+CoalCCS,Antimony,0.000000
+CoalCCS,Arsenic,0.000000
+CoalCCS,Baryte,0.000000
+CoalCCS,Beryllium,0.000000
+CoalCCS,Bismuth,0.000000
+CoalCCS,Borate,0.000000
+CoalCCS,Boron,0.000000
+CoalCCS,Cadmium,0.000000
+CoalCCS,Cerium (REE),0.000000
+CoalCCS,Chromium,326.000000
+CoalCCS,Cobalt,8.000000
+CoalCCS,Copper,782.000000
+CoalCCS,Dysprosium (REE),0.000000
+CoalCCS,Erbium (REE),0.000000
+CoalCCS,Europium (REE),0.000000
+CoalCCS,Fluorspar,0.000000
+CoalCCS,Gadolinium (REE),0.000000
+CoalCCS,Gallium,0.000000
+CoalCCS,Germanium,0.000000
+CoalCCS,Gold,0.000000
+CoalCCS,Graphite,0.000000
+CoalCCS,Hafnium,0.000000
+CoalCCS,Helium,0.000000
+CoalCCS,Holmium (REE),0.000000
+CoalCCS,Indium,0.000000
+CoalCCS,Iridium,0.000000
+CoalCCS,Iron,0.000000
+CoalCCS,Lanthanum (REE),0.000000
+CoalCCS,Lead,0.000000
+CoalCCS,Lithium,0.000000
+CoalCCS,Lutetium (REE),0.000000
+CoalCCS,Magnesium,0.000000
+CoalCCS,Manganese,3761.000000
+CoalCCS,Molybdenum,8.000000
+CoalCCS,Neodymium (REE),0.000000
+CoalCCS,Nickel,1145.000000
+CoalCCS,Niobium,100.000000
+CoalCCS,Palladium,0.000000
+CoalCCS,Phosphate rock,0.000000
+CoalCCS,Phosphorus,0.000000
+CoalCCS,Platinum,0.000000
+CoalCCS,Praseodymium (REE),0.000000
+CoalCCS,Rhenium,0.000000
+CoalCCS,Rhodium,0.000000
+CoalCCS,Ruthenium,0.000000
+CoalCCS,Samarium (REE),0.000000
+CoalCCS,Scandium (REE),0.000000
+CoalCCS,Selenium,0.000000
+CoalCCS,Silicon,0.000000
+CoalCCS,Silver,0.000000
+CoalCCS,Steel,52500.000000
+CoalCCS,Tantalum,0.000000
+CoalCCS,Tellurium,0.000000
+CoalCCS,Terbium (REE),0.000000
+CoalCCS,Thulium,0.000000
+CoalCCS,Tin,0.000000
+CoalCCS,Titanium,0.000000
+CoalCCS,Tungsten,0.000000
+CoalCCS,Vanadium,100.000000
+CoalCCS,Yetterbium (REE),0.000000
+CoalCCS,Yttrium (REE),0.000000
+CoalCCS,Zinc,0.000000
+CoalCCS,Zirconium,0.000000
+NaturalGas,Aluminum,500.000000
+NaturalGas,Antimony,0.000000
+NaturalGas,Arsenic,0.000000
+NaturalGas,Baryte,0.000000
+NaturalGas,Beryllium,0.000000
+NaturalGas,Bismuth,0.000000
+NaturalGas,Borate,0.000000
+NaturalGas,Boron,0.000000
+NaturalGas,Cadmium,0.000000
+NaturalGas,Cerium (REE),0.000000
+NaturalGas,Chromium,0.000000
+NaturalGas,Cobalt,0.000000
+NaturalGas,Copper,90.000000
+NaturalGas,Dysprosium (REE),0.000000
+NaturalGas,Erbium (REE),0.000000
+NaturalGas,Europium (REE),0.000000
+NaturalGas,Fluorspar,0.000000
+NaturalGas,Gadolinium (REE),0.000000
+NaturalGas,Gallium,0.000000
+NaturalGas,Germanium,0.000000
+NaturalGas,Gold,0.000000
+NaturalGas,Graphite,0.000000
+NaturalGas,Hafnium,0.000000
+NaturalGas,Helium,0.000000
+NaturalGas,Holmium (REE),0.000000
+NaturalGas,Indium,0.000000
+NaturalGas,Iridium,0.000000
+NaturalGas,Iron,0.000000
+NaturalGas,Lanthanum (REE),0.000000
+NaturalGas,Lead,0.000000
+NaturalGas,Lithium,0.000000
+NaturalGas,Lutetium (REE),0.000000
+NaturalGas,Magnesium,0.000000
+NaturalGas,Manganese,0.000000
+NaturalGas,Molybdenum,0.000000
+NaturalGas,Neodymium (REE),0.000000
+NaturalGas,Nickel,0.000000
+NaturalGas,Niobium,0.000000
+NaturalGas,Palladium,0.000000
+NaturalGas,Phosphate rock,0.000000
+NaturalGas,Phosphorus,0.000000
+NaturalGas,Platinum,0.000000
+NaturalGas,Praseodymium (REE),0.000000
+NaturalGas,Rhenium,0.000000
+NaturalGas,Rhodium,0.000000
+NaturalGas,Ruthenium,0.000000
+NaturalGas,Samarium (REE),0.000000
+NaturalGas,Scandium (REE),0.000000
+NaturalGas,Selenium,0.000000
+NaturalGas,Silicon,0.000000
+NaturalGas,Silver,0.000000
+NaturalGas,Steel,52500.000000
+NaturalGas,Tantalum,0.000000
+NaturalGas,Tellurium,0.000000
+NaturalGas,Terbium (REE),0.000000
+NaturalGas,Thulium,0.000000
+NaturalGas,Tin,0.000000
+NaturalGas,Titanium,0.000000
+NaturalGas,Tungsten,0.000000
+NaturalGas,Vanadium,0.000000
+NaturalGas,Yetterbium (REE),0.000000
+NaturalGas,Yttrium (REE),0.000000
+NaturalGas,Zinc,0.000000
+NaturalGas,Zirconium,0.000000
+NaturalGasCCS,Aluminum,500.000000
+NaturalGasCCS,Antimony,0.000000
+NaturalGasCCS,Arsenic,0.000000
+NaturalGasCCS,Baryte,0.000000
+NaturalGasCCS,Beryllium,0.000000
+NaturalGasCCS,Bismuth,0.000000
+NaturalGasCCS,Borate,0.000000
+NaturalGasCCS,Boron,0.000000
+NaturalGasCCS,Cadmium,0.000000
+NaturalGasCCS,Cerium (REE),0.000000
+NaturalGasCCS,Chromium,326.000000
+NaturalGasCCS,Cobalt,8.000000
+NaturalGasCCS,Copper,782.000000
+NaturalGasCCS,Dysprosium (REE),0.000000
+NaturalGasCCS,Erbium (REE),0.000000
+NaturalGasCCS,Europium (REE),0.000000
+NaturalGasCCS,Fluorspar,0.000000
+NaturalGasCCS,Gadolinium (REE),0.000000
+NaturalGasCCS,Gallium,0.000000
+NaturalGasCCS,Germanium,0.000000
+NaturalGasCCS,Gold,0.000000
+NaturalGasCCS,Graphite,0.000000
+NaturalGasCCS,Hafnium,0.000000
+NaturalGasCCS,Helium,0.000000
+NaturalGasCCS,Holmium (REE),0.000000
+NaturalGasCCS,Indium,0.000000
+NaturalGasCCS,Iridium,0.000000
+NaturalGasCCS,Iron,0.000000
+NaturalGasCCS,Lanthanum (REE),0.000000
+NaturalGasCCS,Lead,0.000000
+NaturalGasCCS,Lithium,0.000000
+NaturalGasCCS,Lutetium (REE),0.000000
+NaturalGasCCS,Magnesium,0.000000
+NaturalGasCCS,Manganese,3761.000000
+NaturalGasCCS,Molybdenum,8.000000
+NaturalGasCCS,Neodymium (REE),0.000000
+NaturalGasCCS,Nickel,1145.000000
+NaturalGasCCS,Niobium,100.000000
+NaturalGasCCS,Palladium,0.000000
+NaturalGasCCS,Phosphate rock,0.000000
+NaturalGasCCS,Phosphorus,0.000000
+NaturalGasCCS,Platinum,0.000000
+NaturalGasCCS,Praseodymium (REE),0.000000
+NaturalGasCCS,Rhenium,0.000000
+NaturalGasCCS,Rhodium,0.000000
+NaturalGasCCS,Ruthenium,0.000000
+NaturalGasCCS,Samarium (REE),0.000000
+NaturalGasCCS,Scandium (REE),0.000000
+NaturalGasCCS,Selenium,0.000000
+NaturalGasCCS,Silicon,0.000000
+NaturalGasCCS,Silver,0.000000
+NaturalGasCCS,Steel,52500.000000
+NaturalGasCCS,Tantalum,0.000000
+NaturalGasCCS,Tellurium,0.000000
+NaturalGasCCS,Terbium (REE),0.000000
+NaturalGasCCS,Thulium,0.000000
+NaturalGasCCS,Tin,0.000000
+NaturalGasCCS,Titanium,0.000000
+NaturalGasCCS,Tungsten,0.000000
+NaturalGasCCS,Vanadium,100.000000
+NaturalGasCCS,Yetterbium (REE),0.000000
+NaturalGasCCS,Yttrium (REE),0.000000
+NaturalGasCCS,Zinc,0.000000
+NaturalGasCCS,Zirconium,0.000000
+Nuclear,Aluminum,0.000000
+Nuclear,Antimony,0.000000
+Nuclear,Arsenic,0.000000
+Nuclear,Baryte,0.000000
+Nuclear,Beryllium,0.000000
+Nuclear,Bismuth,0.000000
+Nuclear,Borate,0.000000
+Nuclear,Boron,0.000000
+Nuclear,Cadmium,1.000000
+Nuclear,Cerium (REE),0.000000
+Nuclear,Chromium,427.000000
+Nuclear,Cobalt,0.000000
+Nuclear,Copper,60.000000
+Nuclear,Dysprosium (REE),0.000000
+Nuclear,Erbium (REE),0.000000
+Nuclear,Europium (REE),0.000000
+Nuclear,Fluorspar,0.000000
+Nuclear,Gadolinium (REE),0.000000
+Nuclear,Gallium,0.000000
+Nuclear,Germanium,0.000000
+Nuclear,Gold,0.000000
+Nuclear,Graphite,0.000000
+Nuclear,Hafnium,1.000000
+Nuclear,Helium,0.000000
+Nuclear,Holmium (REE),0.000000
+Nuclear,Indium,2.000000
+Nuclear,Iridium,0.000000
+Nuclear,Iron,0.000000
+Nuclear,Lanthanum (REE),0.000000
+Nuclear,Lead,4.000000
+Nuclear,Lithium,0.000000
+Nuclear,Lutetium (REE),0.000000
+Nuclear,Magnesium,0.000000
+Nuclear,Manganese,0.000000
+Nuclear,Molybdenum,71.000000
+Nuclear,Neodymium (REE),0.000000
+Nuclear,Nickel,256.000000
+Nuclear,Niobium,2.000000
+Nuclear,Palladium,0.000000
+Nuclear,Phosphate rock,0.000000
+Nuclear,Phosphorus,0.000000
+Nuclear,Platinum,0.000000
+Nuclear,Praseodymium (REE),0.000000
+Nuclear,Rhenium,0.000000
+Nuclear,Rhodium,0.000000
+Nuclear,Ruthenium,0.000000
+Nuclear,Samarium (REE),0.000000
+Nuclear,Scandium (REE),0.000000
+Nuclear,Selenium,0.000000
+Nuclear,Silicon,0.000000
+Nuclear,Silver,8.000000
+Nuclear,Steel,468600.000000
+Nuclear,Tantalum,0.000000
+Nuclear,Tellurium,0.000000
+Nuclear,Terbium (REE),0.000000
+Nuclear,Thulium,0.000000
+Nuclear,Tin,5.000000
+Nuclear,Titanium,0.000000
+Nuclear,Tungsten,5.000000
+Nuclear,Vanadium,1.000000
+Nuclear,Yetterbium (REE),0.000000
+Nuclear,Yttrium (REE),1.000000
+Nuclear,Zinc,0.000000
+Nuclear,Zirconium,31.000000
+BiomassAndWaste,Aluminum,3900.000000
+BiomassAndWaste,Antimony,0.000000
+BiomassAndWaste,Arsenic,0.000000
+BiomassAndWaste,Baryte,0.000000
+BiomassAndWaste,Beryllium,0.000000
+BiomassAndWaste,Bismuth,0.000000
+BiomassAndWaste,Borate,0.000000
+BiomassAndWaste,Boron,0.000000
+BiomassAndWaste,Cadmium,0.000000
+BiomassAndWaste,Cerium (REE),0.000000
+BiomassAndWaste,Chromium,2.000000
+BiomassAndWaste,Cobalt,2.000000
+BiomassAndWaste,Copper,2270.000000
+BiomassAndWaste,Dysprosium (REE),0.000000
+BiomassAndWaste,Erbium (REE),0.000000
+BiomassAndWaste,Europium (REE),0.000000
+BiomassAndWaste,Fluorspar,0.000000
+BiomassAndWaste,Gadolinium (REE),0.000000
+BiomassAndWaste,Gallium,0.000000
+BiomassAndWaste,Germanium,0.000000
+BiomassAndWaste,Gold,0.000000
+BiomassAndWaste,Graphite,0.000000
+BiomassAndWaste,Hafnium,0.000000
+BiomassAndWaste,Helium,0.000000
+BiomassAndWaste,Holmium (REE),0.000000
+BiomassAndWaste,Indium,0.000000
+BiomassAndWaste,Iridium,0.000000
+BiomassAndWaste,Iron,0.000000
+BiomassAndWaste,Lanthanum (REE),0.000000
+BiomassAndWaste,Lead,104.000000
+BiomassAndWaste,Lithium,0.000000
+BiomassAndWaste,Lutetium (REE),0.000000
+BiomassAndWaste,Magnesium,0.000000
+BiomassAndWaste,Manganese,0.000000
+BiomassAndWaste,Molybdenum,0.000000
+BiomassAndWaste,Neodymium (REE),0.000000
+BiomassAndWaste,Nickel,20.000000
+BiomassAndWaste,Niobium,0.000000
+BiomassAndWaste,Palladium,0.000000
+BiomassAndWaste,Phosphate rock,0.000000
+BiomassAndWaste,Phosphorus,0.000000
+BiomassAndWaste,Platinum,0.000000
+BiomassAndWaste,Praseodymium (REE),0.000000
+BiomassAndWaste,Rhenium,0.000000
+BiomassAndWaste,Rhodium,0.000000
+BiomassAndWaste,Ruthenium,0.000000
+BiomassAndWaste,Samarium (REE),0.000000
+BiomassAndWaste,Scandium (REE),0.000000
+BiomassAndWaste,Selenium,0.000000
+BiomassAndWaste,Silicon,0.000000
+BiomassAndWaste,Silver,0.000000
+BiomassAndWaste,Steel,138000.000000
+BiomassAndWaste,Tantalum,0.000000
+BiomassAndWaste,Tellurium,0.000000
+BiomassAndWaste,Terbium (REE),0.000000
+BiomassAndWaste,Thulium,0.000000
+BiomassAndWaste,Tin,0.000000
+BiomassAndWaste,Titanium,0.000000
+BiomassAndWaste,Tungsten,0.000000
+BiomassAndWaste,Vanadium,0.000000
+BiomassAndWaste,Yetterbium (REE),0.000000
+BiomassAndWaste,Yttrium (REE),0.000000
+BiomassAndWaste,Zinc,160.000000
+BiomassAndWaste,Zirconium,0.000000
+BiomassCCS,Aluminum,3900.000000
+BiomassCCS,Antimony,0.000000
+BiomassCCS,Arsenic,0.000000
+BiomassCCS,Baryte,0.000000
+BiomassCCS,Beryllium,0.000000
+BiomassCCS,Bismuth,0.000000
+BiomassCCS,Borate,0.000000
+BiomassCCS,Boron,0.000000
+BiomassCCS,Cadmium,0.000000
+BiomassCCS,Cerium (REE),0.000000
+BiomassCCS,Chromium,328.000000
+BiomassCCS,Cobalt,10.000000
+BiomassCCS,Copper,2962.000000
+BiomassCCS,Dysprosium (REE),0.000000
+BiomassCCS,Erbium (REE),0.000000
+BiomassCCS,Europium (REE),0.000000
+BiomassCCS,Fluorspar,0.000000
+BiomassCCS,Gadolinium (REE),0.000000
+BiomassCCS,Gallium,0.000000
+BiomassCCS,Germanium,0.000000
+BiomassCCS,Gold,0.000000
+BiomassCCS,Graphite,0.000000
+BiomassCCS,Hafnium,0.000000
+BiomassCCS,Helium,0.000000
+BiomassCCS,Holmium (REE),0.000000
+BiomassCCS,Indium,0.000000
+BiomassCCS,Iridium,0.000000
+BiomassCCS,Iron,0.000000
+BiomassCCS,Lanthanum (REE),0.000000
+BiomassCCS,Lead,104.000000
+BiomassCCS,Lithium,0.000000
+BiomassCCS,Lutetium (REE),0.000000
+BiomassCCS,Magnesium,0.000000
+BiomassCCS,Manganese,3761.000000
+BiomassCCS,Molybdenum,8.000000
+BiomassCCS,Neodymium (REE),0.000000
+BiomassCCS,Nickel,1165.000000
+BiomassCCS,Niobium,100.000000
+BiomassCCS,Palladium,0.000000
+BiomassCCS,Phosphate rock,0.000000
+BiomassCCS,Phosphorus,0.000000
+BiomassCCS,Platinum,0.000000
+BiomassCCS,Praseodymium (REE),0.000000
+BiomassCCS,Rhenium,0.000000
+BiomassCCS,Rhodium,0.000000
+BiomassCCS,Ruthenium,0.000000
+BiomassCCS,Samarium (REE),0.000000
+BiomassCCS,Scandium (REE),0.000000
+BiomassCCS,Selenium,0.000000
+BiomassCCS,Silicon,0.000000
+BiomassCCS,Silver,0.000000
+BiomassCCS,Steel,138000.000000
+BiomassCCS,Tantalum,0.000000
+BiomassCCS,Tellurium,0.000000
+BiomassCCS,Terbium (REE),0.000000
+BiomassCCS,Thulium,0.000000
+BiomassCCS,Tin,0.000000
+BiomassCCS,Titanium,0.000000
+BiomassCCS,Tungsten,0.000000
+BiomassCCS,Vanadium,100.000000
+BiomassCCS,Yetterbium (REE),0.000000
+BiomassCCS,Yttrium (REE),0.000000
+BiomassCCS,Zinc,160.000000
+BiomassCCS,Zirconium,0.000000
+Hydro,Aluminum,3400.000000
+Hydro,Antimony,0.000000
+Hydro,Arsenic,0.000000
+Hydro,Baryte,0.000000
+Hydro,Beryllium,0.000000
+Hydro,Bismuth,0.000000
+Hydro,Borate,0.000000
+Hydro,Boron,0.000000
+Hydro,Cadmium,0.000000
+Hydro,Cerium (REE),0.000000
+Hydro,Chromium,1500.000000
+Hydro,Cobalt,0.000000
+Hydro,Copper,1050.000000
+Hydro,Dysprosium (REE),0.000000
+Hydro,Erbium (REE),0.000000
+Hydro,Europium (REE),0.000000
+Hydro,Fluorspar,0.000000
+Hydro,Gadolinium (REE),0.000000
+Hydro,Gallium,0.000000
+Hydro,Germanium,0.000000
+Hydro,Gold,0.000000
+Hydro,Graphite,0.000000
+Hydro,Hafnium,0.000000
+Hydro,Helium,0.000000
+Hydro,Holmium (REE),0.000000
+Hydro,Indium,0.000000
+Hydro,Iridium,0.000000
+Hydro,Iron,0.000000
+Hydro,Lanthanum (REE),0.000000
+Hydro,Lead,300.000000
+Hydro,Lithium,0.000000
+Hydro,Lutetium (REE),0.000000
+Hydro,Magnesium,100.000000
+Hydro,Manganese,200.000000
+Hydro,Molybdenum,250.000000
+Hydro,Neodymium (REE),0.000000
+Hydro,Nickel,0.000000
+Hydro,Niobium,0.000000
+Hydro,Palladium,0.000000
+Hydro,Phosphate rock,0.000000
+Hydro,Phosphorus,0.000000
+Hydro,Platinum,0.000000
+Hydro,Praseodymium (REE),0.000000
+Hydro,Rhenium,0.000000
+Hydro,Rhodium,0.000000
+Hydro,Ruthenium,0.000000
+Hydro,Samarium (REE),0.000000
+Hydro,Scandium (REE),0.000000
+Hydro,Selenium,0.000000
+Hydro,Silicon,0.000000
+Hydro,Silver,0.000000
+Hydro,Steel,175000.000000
+Hydro,Tantalum,0.000000
+Hydro,Tellurium,0.000000
+Hydro,Terbium (REE),0.000000
+Hydro,Thulium,0.000000
+Hydro,Tin,0.000000
+Hydro,Titanium,0.000000
+Hydro,Tungsten,0.000000
+Hydro,Vanadium,0.000000
+Hydro,Yetterbium (REE),0.000000
+Hydro,Yttrium (REE),0.000000
+Hydro,Zinc,400.000000
+Hydro,Zirconium,0.000000
+Geothermal,Aluminum,0.000000
+Geothermal,Antimony,0.000000
+Geothermal,Arsenic,0.000000
+Geothermal,Baryte,0.000000
+Geothermal,Beryllium,0.000000
+Geothermal,Bismuth,0.000000
+Geothermal,Borate,0.000000
+Geothermal,Boron,0.000000
+Geothermal,Cadmium,0.000000
+Geothermal,Cerium (REE),0.000000
+Geothermal,Chromium,64405.000000
+Geothermal,Cobalt,0.000000
+Geothermal,Copper,2335.000000
+Geothermal,Dysprosium (REE),0.000000
+Geothermal,Erbium (REE),0.000000
+Geothermal,Europium (REE),0.000000
+Geothermal,Fluorspar,0.000000
+Geothermal,Gadolinium (REE),0.000000
+Geothermal,Gallium,0.000000
+Geothermal,Germanium,0.000000
+Geothermal,Gold,0.000000
+Geothermal,Graphite,0.000000
+Geothermal,Hafnium,0.000000
+Geothermal,Helium,0.000000
+Geothermal,Holmium (REE),0.000000
+Geothermal,Indium,0.000000
+Geothermal,Iridium,0.000000
+Geothermal,Iron,0.000000
+Geothermal,Lanthanum (REE),0.000000
+Geothermal,Lead,0.000000
+Geothermal,Lithium,0.000000
+Geothermal,Lutetium (REE),0.000000
+Geothermal,Magnesium,0.000000
+Geothermal,Manganese,4325.000000
+Geothermal,Molybdenum,7209.000000
+Geothermal,Neodymium (REE),0.000000
+Geothermal,Nickel,120155.000000
+Geothermal,Niobium,128.000000
+Geothermal,Palladium,0.000000
+Geothermal,Phosphate rock,0.000000
+Geothermal,Phosphorus,0.000000
+Geothermal,Platinum,0.000000
+Geothermal,Praseodymium (REE),0.000000
+Geothermal,Rhenium,0.000000
+Geothermal,Rhodium,0.000000
+Geothermal,Ruthenium,0.000000
+Geothermal,Samarium (REE),0.000000
+Geothermal,Scandium (REE),0.000000
+Geothermal,Selenium,0.000000
+Geothermal,Silicon,0.000000
+Geothermal,Silver,0.000000
+Geothermal,Steel,818000.000000
+Geothermal,Tantalum,64.000000
+Geothermal,Tellurium,0.000000
+Geothermal,Terbium (REE),0.000000
+Geothermal,Thulium,0.000000
+Geothermal,Tin,0.000000
+Geothermal,Titanium,0.000000
+Geothermal,Tungsten,0.000000
+Geothermal,Vanadium,0.000000
+Geothermal,Yetterbium (REE),0.000000
+Geothermal,Yttrium (REE),0.000000
+Geothermal,Zinc,0.000000
+Geothermal,Zirconium,0.000000
+WindOnshore,Aluminum,1372.000000
+WindOnshore,Antimony,0.000000
+WindOnshore,Arsenic,0.000000
+WindOnshore,Baryte,0.000000
+WindOnshore,Beryllium,0.000000
+WindOnshore,Bismuth,0.000000
+WindOnshore,Borate,0.000000
+WindOnshore,Boron,1.000000
+WindOnshore,Cadmium,0.000000
+WindOnshore,Cerium (REE),0.000000
+WindOnshore,Chromium,683.000000
+WindOnshore,Cobalt,0.000000
+WindOnshore,Copper,2497.000000
+WindOnshore,Dysprosium (REE),0.000000
+WindOnshore,Erbium (REE),0.000000
+WindOnshore,Europium (REE),0.000000
+WindOnshore,Fluorspar,0.000000
+WindOnshore,Gadolinium (REE),0.000000
+WindOnshore,Gallium,0.000000
+WindOnshore,Germanium,0.000000
+WindOnshore,Gold,0.000000
+WindOnshore,Graphite,0.000000
+WindOnshore,Hafnium,0.000000
+WindOnshore,Helium,0.000000
+WindOnshore,Holmium (REE),0.000000
+WindOnshore,Indium,0.000000
+WindOnshore,Iridium,0.000000
+WindOnshore,Iron,0.000000
+WindOnshore,Lanthanum (REE),0.000000
+WindOnshore,Lead,0.000000
+WindOnshore,Lithium,0.000000
+WindOnshore,Lutetium (REE),0.000000
+WindOnshore,Magnesium,0.000000
+WindOnshore,Manganese,57.000000
+WindOnshore,Molybdenum,335.000000
+WindOnshore,Neodymium (REE),0.000000
+WindOnshore,Nickel,427.000000
+WindOnshore,Niobium,38.000000
+WindOnshore,Palladium,0.000000
+WindOnshore,Phosphate rock,0.000000
+WindOnshore,Phosphorus,0.000000
+WindOnshore,Platinum,0.000000
+WindOnshore,Praseodymium (REE),3.000000
+WindOnshore,Rhenium,0.000000
+WindOnshore,Rhodium,0.000000
+WindOnshore,Ruthenium,0.000000
+WindOnshore,Samarium (REE),0.000000
+WindOnshore,Scandium (REE),0.000000
+WindOnshore,Selenium,0.000000
+WindOnshore,Silicon,0.000000
+WindOnshore,Silver,0.000000
+WindOnshore,Steel,119985.000000
+WindOnshore,Tantalum,0.000000
+WindOnshore,Tellurium,0.000000
+WindOnshore,Terbium (REE),1.000000
+WindOnshore,Thulium,0.000000
+WindOnshore,Tin,90.000000
+WindOnshore,Titanium,0.000000
+WindOnshore,Tungsten,0.000000
+WindOnshore,Vanadium,90.000000
+WindOnshore,Yetterbium (REE),0.000000
+WindOnshore,Yttrium (REE),0.000000
+WindOnshore,Zinc,5450.000000
+WindOnshore,Zirconium,0.000000
+WindOffshore,Aluminum,2063.000000
+WindOffshore,Antimony,0.000000
+WindOffshore,Arsenic,0.000000
+WindOffshore,Baryte,0.000000
+WindOffshore,Beryllium,0.000000
+WindOffshore,Bismuth,0.000000
+WindOffshore,Borate,0.000000
+WindOffshore,Boron,7.000000
+WindOffshore,Cadmium,0.000000
+WindOffshore,Cerium (REE),0.000000
+WindOffshore,Chromium,372.000000
+WindOffshore,Cobalt,0.000000
+WindOffshore,Copper,9371.000000
+WindOffshore,Dysprosium (REE),16.000000
+WindOffshore,Erbium (REE),0.000000
+WindOffshore,Europium (REE),0.000000
+WindOffshore,Fluorspar,0.000000
+WindOffshore,Gadolinium (REE),0.000000
+WindOffshore,Gallium,0.000000
+WindOffshore,Germanium,0.000000
+WindOffshore,Gold,0.000000
+WindOffshore,Graphite,0.000000
+WindOffshore,Hafnium,0.000000
+WindOffshore,Helium,0.000000
+WindOffshore,Holmium (REE),0.000000
+WindOffshore,Indium,0.000000
+WindOffshore,Iridium,0.000000
+WindOffshore,Iron,0.000000
+WindOffshore,Lanthanum (REE),0.000000
+WindOffshore,Lead,0.000000
+WindOffshore,Lithium,0.000000
+WindOffshore,Lutetium (REE),0.000000
+WindOffshore,Magnesium,0.000000
+WindOffshore,Manganese,57.000000
+WindOffshore,Molybdenum,335.000000
+WindOffshore,Neodymium (REE),148.000000
+WindOffshore,Nickel,427.000000
+WindOffshore,Niobium,38.000000
+WindOffshore,Palladium,0.000000
+WindOffshore,Phosphate rock,0.000000
+WindOffshore,Phosphorus,0.000000
+WindOffshore,Platinum,0.000000
+WindOffshore,Praseodymium (REE),33.000000
+WindOffshore,Rhenium,0.000000
+WindOffshore,Rhodium,0.000000
+WindOffshore,Ruthenium,0.000000
+WindOffshore,Samarium (REE),0.000000
+WindOffshore,Scandium (REE),0.000000
+WindOffshore,Selenium,0.000000
+WindOffshore,Silicon,0.000000
+WindOffshore,Silver,0.000000
+WindOffshore,Steel,333500.000000
+WindOffshore,Tantalum,0.000000
+WindOffshore,Tellurium,0.000000
+WindOffshore,Terbium (REE),7.000000
+WindOffshore,Thulium,0.000000
+WindOffshore,Tin,90.000000
+WindOffshore,Titanium,0.000000
+WindOffshore,Tungsten,0.000000
+WindOffshore,Vanadium,700.000000
+WindOffshore,Yetterbium (REE),0.000000
+WindOffshore,Yttrium (REE),0.000000
+WindOffshore,Zinc,5450.000000
+WindOffshore,Zirconium,0.000000
+SolarPV-CSi,Aluminum,34551.000000
+SolarPV-CSi,Antimony,0.000000
+SolarPV-CSi,Arsenic,0.000000
+SolarPV-CSi,Baryte,0.000000
+SolarPV-CSi,Beryllium,0.000000
+SolarPV-CSi,Bismuth,0.000000
+SolarPV-CSi,Borate,0.000000
+SolarPV-CSi,Boron,0.000800
+SolarPV-CSi,Cadmium,0.000000
+SolarPV-CSi,Cerium (REE),0.000000
+SolarPV-CSi,Chromium,3760.000000
+SolarPV-CSi,Cobalt,0.000000
+SolarPV-CSi,Copper,4223.000000
+SolarPV-CSi,Dysprosium (REE),0.000000
+SolarPV-CSi,Erbium (REE),0.000000
+SolarPV-CSi,Europium (REE),0.000000
+SolarPV-CSi,Fluorspar,0.000000
+SolarPV-CSi,Gadolinium (REE),0.000000
+SolarPV-CSi,Gallium,0.000000
+SolarPV-CSi,Germanium,0.000000
+SolarPV-CSi,Gold,0.000000
+SolarPV-CSi,Graphite,0.000000
+SolarPV-CSi,Hafnium,0.000000
+SolarPV-CSi,Helium,0.000000
+SolarPV-CSi,Holmium (REE),0.000000
+SolarPV-CSi,Indium,0.000000
+SolarPV-CSi,Iridium,0.000000
+SolarPV-CSi,Iron,0.000000
+SolarPV-CSi,Lanthanum (REE),0.000000
+SolarPV-CSi,Lead,39.000000
+SolarPV-CSi,Lithium,0.000000
+SolarPV-CSi,Lutetium (REE),0.000000
+SolarPV-CSi,Magnesium,0.000000
+SolarPV-CSi,Manganese,0.000000
+SolarPV-CSi,Molybdenum,1.000000
+SolarPV-CSi,Neodymium (REE),0.000000
+SolarPV-CSi,Nickel,1801.000000
+SolarPV-CSi,Niobium,0.000000
+SolarPV-CSi,Palladium,0.000000
+SolarPV-CSi,Phosphate rock,0.000000
+SolarPV-CSi,Phosphorus,0.000000
+SolarPV-CSi,Platinum,0.000000
+SolarPV-CSi,Praseodymium (REE),0.000000
+SolarPV-CSi,Rhenium,0.000000
+SolarPV-CSi,Rhodium,0.000000
+SolarPV-CSi,Ruthenium,0.000000
+SolarPV-CSi,Samarium (REE),0.000000
+SolarPV-CSi,Scandium (REE),0.000000
+SolarPV-CSi,Selenium,0.000000
+SolarPV-CSi,Silicon,6428.000000
+SolarPV-CSi,Silver,30.000000
+SolarPV-CSi,Steel,1200000.000000
+SolarPV-CSi,Tantalum,0.000000
+SolarPV-CSi,Tellurium,0.000000
+SolarPV-CSi,Terbium (REE),0.000000
+SolarPV-CSi,Thulium,0.000000
+SolarPV-CSi,Tin,332.000000
+SolarPV-CSi,Titanium,0.000000
+SolarPV-CSi,Tungsten,0.000000
+SolarPV-CSi,Vanadium,2.000000
+SolarPV-CSi,Yetterbium (REE),0.000000
+SolarPV-CSi,Yttrium (REE),0.000000
+SolarPV-CSi,Zinc,1456.000000
+SolarPV-CSi,Zirconium,0.000000
+SolarPV-CIGS,Aluminum,34551.000000
+SolarPV-CIGS,Antimony,0.000000
+SolarPV-CIGS,Arsenic,0.000000
+SolarPV-CIGS,Baryte,0.000000
+SolarPV-CIGS,Beryllium,0.000000
+SolarPV-CIGS,Bismuth,0.000000
+SolarPV-CIGS,Borate,0.000000
+SolarPV-CIGS,Boron,0.000800
+SolarPV-CIGS,Cadmium,0.000000
+SolarPV-CIGS,Cerium (REE),0.000000
+SolarPV-CIGS,Chromium,3760.000000
+SolarPV-CIGS,Cobalt,0.000000
+SolarPV-CIGS,Copper,3998.000000
+SolarPV-CIGS,Dysprosium (REE),0.000000
+SolarPV-CIGS,Erbium (REE),0.000000
+SolarPV-CIGS,Europium (REE),0.000000
+SolarPV-CIGS,Fluorspar,0.000000
+SolarPV-CIGS,Gadolinium (REE),0.000000
+SolarPV-CIGS,Gallium,19.000000
+SolarPV-CIGS,Germanium,0.000000
+SolarPV-CIGS,Gold,0.000000
+SolarPV-CIGS,Graphite,0.000000
+SolarPV-CIGS,Hafnium,0.000000
+SolarPV-CIGS,Helium,0.000000
+SolarPV-CIGS,Holmium (REE),0.000000
+SolarPV-CIGS,Indium,31.000000
+SolarPV-CIGS,Iridium,0.000000
+SolarPV-CIGS,Iron,0.000000
+SolarPV-CIGS,Lanthanum (REE),0.000000
+SolarPV-CIGS,Lead,0.000000
+SolarPV-CIGS,Lithium,0.000000
+SolarPV-CIGS,Lutetium (REE),0.000000
+SolarPV-CIGS,Magnesium,0.000000
+SolarPV-CIGS,Manganese,0.000000
+SolarPV-CIGS,Molybdenum,109.000000
+SolarPV-CIGS,Neodymium (REE),0.000000
+SolarPV-CIGS,Nickel,1816.000000
+SolarPV-CIGS,Niobium,0.000000
+SolarPV-CIGS,Palladium,0.000000
+SolarPV-CIGS,Phosphate rock,0.000000
+SolarPV-CIGS,Phosphorus,0.000000
+SolarPV-CIGS,Platinum,0.000000
+SolarPV-CIGS,Praseodymium (REE),0.000000
+SolarPV-CIGS,Rhenium,0.000000
+SolarPV-CIGS,Rhodium,0.000000
+SolarPV-CIGS,Ruthenium,0.000000
+SolarPV-CIGS,Samarium (REE),0.000000
+SolarPV-CIGS,Scandium (REE),0.000000
+SolarPV-CIGS,Selenium,61.000000
+SolarPV-CIGS,Silicon,0.000000
+SolarPV-CIGS,Silver,0.000000
+SolarPV-CIGS,Steel,1200000.000000
+SolarPV-CIGS,Tantalum,0.000000
+SolarPV-CIGS,Tellurium,0.000000
+SolarPV-CIGS,Terbium (REE),0.000000
+SolarPV-CIGS,Thulium,0.000000
+SolarPV-CIGS,Tin,332.000000
+SolarPV-CIGS,Titanium,0.000000
+SolarPV-CIGS,Tungsten,0.000000
+SolarPV-CIGS,Vanadium,2.000000
+SolarPV-CIGS,Yetterbium (REE),0.000000
+SolarPV-CIGS,Yttrium (REE),0.000000
+SolarPV-CIGS,Zinc,1456.000000
+SolarPV-CIGS,Zirconium,0.000000
+SolarPV-Cte,Aluminum,34551.000000
+SolarPV-Cte,Antimony,0.000000
+SolarPV-Cte,Arsenic,0.000000
+SolarPV-Cte,Baryte,0.000000
+SolarPV-Cte,Beryllium,0.000000
+SolarPV-Cte,Bismuth,0.000000
+SolarPV-Cte,Borate,0.000000
+SolarPV-Cte,Boron,0.000800
+SolarPV-Cte,Cadmium,87.000000
+SolarPV-Cte,Cerium (REE),0.000000
+SolarPV-Cte,Chromium,3760.000000
+SolarPV-Cte,Cobalt,0.000000
+SolarPV-Cte,Copper,6856.000000
+SolarPV-Cte,Dysprosium (REE),0.000000
+SolarPV-Cte,Erbium (REE),0.000000
+SolarPV-Cte,Europium (REE),0.000000
+SolarPV-Cte,Fluorspar,0.000000
+SolarPV-Cte,Gadolinium (REE),0.000000
+SolarPV-Cte,Gallium,0.000000
+SolarPV-Cte,Germanium,0.000000
+SolarPV-Cte,Gold,0.000000
+SolarPV-Cte,Graphite,0.000000
+SolarPV-Cte,Hafnium,0.000000
+SolarPV-Cte,Helium,0.000000
+SolarPV-Cte,Holmium (REE),0.000000
+SolarPV-Cte,Indium,0.000000
+SolarPV-Cte,Iridium,0.000000
+SolarPV-Cte,Iron,0.000000
+SolarPV-Cte,Lanthanum (REE),0.000000
+SolarPV-Cte,Lead,8.000000
+SolarPV-Cte,Lithium,0.000000
+SolarPV-Cte,Lutetium (REE),0.000000
+SolarPV-Cte,Magnesium,0.000000
+SolarPV-Cte,Manganese,0.000000
+SolarPV-Cte,Molybdenum,200.000000
+SolarPV-Cte,Neodymium (REE),0.000000
+SolarPV-Cte,Nickel,1800.000000
+SolarPV-Cte,Niobium,0.000000
+SolarPV-Cte,Palladium,0.000000
+SolarPV-Cte,Phosphate rock,0.000000
+SolarPV-Cte,Phosphorus,0.000000
+SolarPV-Cte,Platinum,0.000000
+SolarPV-Cte,Praseodymium (REE),0.000000
+SolarPV-Cte,Rhenium,0.000000
+SolarPV-Cte,Rhodium,0.000000
+SolarPV-Cte,Ruthenium,0.000000
+SolarPV-Cte,Samarium (REE),0.000000
+SolarPV-Cte,Scandium (REE),0.000000
+SolarPV-Cte,Selenium,0.000000
+SolarPV-Cte,Silicon,0.000000
+SolarPV-Cte,Silver,0.000000
+SolarPV-Cte,Steel,1200000.000000
+SolarPV-Cte,Tantalum,0.000000
+SolarPV-Cte,Tellurium,92.000000
+SolarPV-Cte,Terbium (REE),0.000000
+SolarPV-Cte,Thulium,0.000000
+SolarPV-Cte,Tin,332.000000
+SolarPV-Cte,Titanium,0.000000
+SolarPV-Cte,Tungsten,0.000000
+SolarPV-Cte,Vanadium,2.000000
+SolarPV-Cte,Yetterbium (REE),0.000000
+SolarPV-Cte,Yttrium (REE),0.000000
+SolarPV-Cte,Zinc,1456.000000
+SolarPV-Cte,Zirconium,0.000000
+SolarPV-amorphus,Aluminum,0.000000
+SolarPV-amorphus,Antimony,0.000000
+SolarPV-amorphus,Arsenic,0.000000
+SolarPV-amorphus,Baryte,0.000000
+SolarPV-amorphus,Beryllium,0.000000
+SolarPV-amorphus,Bismuth,0.000000
+SolarPV-amorphus,Borate,0.000000
+SolarPV-amorphus,Boron,0.000000
+SolarPV-amorphus,Cadmium,0.000000
+SolarPV-amorphus,Cerium (REE),0.000000
+SolarPV-amorphus,Chromium,0.000000
+SolarPV-amorphus,Cobalt,0.000000
+SolarPV-amorphus,Copper,0.000000
+SolarPV-amorphus,Dysprosium (REE),0.000000
+SolarPV-amorphus,Erbium (REE),0.000000
+SolarPV-amorphus,Europium (REE),0.000000
+SolarPV-amorphus,Fluorspar,0.000000
+SolarPV-amorphus,Gadolinium (REE),0.000000
+SolarPV-amorphus,Gallium,0.000000
+SolarPV-amorphus,Germanium,0.000000
+SolarPV-amorphus,Gold,0.000000
+SolarPV-amorphus,Graphite,0.000000
+SolarPV-amorphus,Hafnium,0.000000
+SolarPV-amorphus,Helium,0.000000
+SolarPV-amorphus,Holmium (REE),0.000000
+SolarPV-amorphus,Indium,0.000000
+SolarPV-amorphus,Iridium,0.000000
+SolarPV-amorphus,Iron,0.000000
+SolarPV-amorphus,Lanthanum (REE),0.000000
+SolarPV-amorphus,Lead,0.000000
+SolarPV-amorphus,Lithium,0.000000
+SolarPV-amorphus,Lutetium (REE),0.000000
+SolarPV-amorphus,Magnesium,0.000000
+SolarPV-amorphus,Manganese,0.000000
+SolarPV-amorphus,Molybdenum,0.000000
+SolarPV-amorphus,Neodymium (REE),0.000000
+SolarPV-amorphus,Nickel,0.000000
+SolarPV-amorphus,Niobium,0.000000
+SolarPV-amorphus,Palladium,0.000000
+SolarPV-amorphus,Phosphate rock,0.000000
+SolarPV-amorphus,Phosphorus,0.000000
+SolarPV-amorphus,Platinum,0.000000
+SolarPV-amorphus,Praseodymium (REE),0.000000
+SolarPV-amorphus,Rhenium,0.000000
+SolarPV-amorphus,Rhodium,0.000000
+SolarPV-amorphus,Ruthenium,0.000000
+SolarPV-amorphus,Samarium (REE),0.000000
+SolarPV-amorphus,Scandium (REE),0.000000
+SolarPV-amorphus,Selenium,0.000000
+SolarPV-amorphus,Silicon,0.000000
+SolarPV-amorphus,Silver,0.000000
+SolarPV-amorphus,Steel,0.000000
+SolarPV-amorphus,Tantalum,0.000000
+SolarPV-amorphus,Tellurium,0.000000
+SolarPV-amorphus,Terbium (REE),0.000000
+SolarPV-amorphus,Thulium,0.000000
+SolarPV-amorphus,Tin,0.000000
+SolarPV-amorphus,Titanium,0.000000
+SolarPV-amorphus,Tungsten,0.000000
+SolarPV-amorphus,Vanadium,0.000000
+SolarPV-amorphus,Yetterbium (REE),0.000000
+SolarPV-amorphus,Yttrium (REE),0.000000
+SolarPV-amorphus,Zinc,0.000000
+SolarPV-amorphus,Zirconium,0.000000
+SolarCSP-trough,Aluminum,285.000000
+SolarCSP-trough,Antimony,0.000000
+SolarCSP-trough,Arsenic,0.000000
+SolarCSP-trough,Baryte,0.000000
+SolarCSP-trough,Beryllium,0.000000
+SolarCSP-trough,Bismuth,0.000000
+SolarCSP-trough,Borate,0.000000
+SolarCSP-trough,Boron,0.000000
+SolarCSP-trough,Cadmium,0.000000
+SolarCSP-trough,Cerium (REE),0.000000
+SolarCSP-trough,Chromium,4733.000000
+SolarCSP-trough,Cobalt,0.000000
+SolarCSP-trough,Copper,3175.000000
+SolarCSP-trough,Dysprosium (REE),0.000000
+SolarCSP-trough,Erbium (REE),0.000000
+SolarCSP-trough,Europium (REE),0.000000
+SolarCSP-trough,Fluorspar,0.000000
+SolarCSP-trough,Gadolinium (REE),0.000000
+SolarCSP-trough,Gallium,0.000000
+SolarCSP-trough,Germanium,0.000000
+SolarCSP-trough,Gold,0.000000
+SolarCSP-trough,Graphite,0.000000
+SolarCSP-trough,Hafnium,0.000000
+SolarCSP-trough,Helium,0.000000
+SolarCSP-trough,Holmium (REE),0.000000
+SolarCSP-trough,Indium,0.000000
+SolarCSP-trough,Iridium,0.000000
+SolarCSP-trough,Iron,0.000000
+SolarCSP-trough,Lanthanum (REE),0.000000
+SolarCSP-trough,Lead,0.000000
+SolarCSP-trough,Lithium,0.000000
+SolarCSP-trough,Lutetium (REE),0.000000
+SolarCSP-trough,Magnesium,1400.000000
+SolarCSP-trough,Manganese,736.000000
+SolarCSP-trough,Molybdenum,200.000000
+SolarCSP-trough,Neodymium (REE),0.000000
+SolarCSP-trough,Nickel,471.000000
+SolarCSP-trough,Niobium,0.000000
+SolarCSP-trough,Palladium,0.000000
+SolarCSP-trough,Phosphate rock,0.000000
+SolarCSP-trough,Phosphorus,0.000000
+SolarCSP-trough,Platinum,0.000000
+SolarCSP-trough,Praseodymium (REE),0.000000
+SolarCSP-trough,Rhenium,0.000000
+SolarCSP-trough,Rhodium,0.000000
+SolarCSP-trough,Ruthenium,0.000000
+SolarCSP-trough,Samarium (REE),0.000000
+SolarCSP-trough,Scandium (REE),0.000000
+SolarCSP-trough,Selenium,0.000000
+SolarCSP-trough,Silicon,0.000000
+SolarCSP-trough,Silver,8.000000
+SolarCSP-trough,Steel,583333.000000
+SolarCSP-trough,Tantalum,0.000000
+SolarCSP-trough,Tellurium,0.000000
+SolarCSP-trough,Terbium (REE),0.000000
+SolarCSP-trough,Thulium,0.000000
+SolarCSP-trough,Tin,0.000000
+SolarCSP-trough,Titanium,25.000000
+SolarCSP-trough,Tungsten,0.000000
+SolarCSP-trough,Vanadium,2.000000
+SolarCSP-trough,Yetterbium (REE),0.000000
+SolarCSP-trough,Yttrium (REE),0.000000
+SolarCSP-trough,Zinc,650.000000
+SolarCSP-trough,Zirconium,0.000000
+SolarCSP-tower,Aluminum,72967.000000
+SolarCSP-tower,Antimony,0.000000
+SolarCSP-tower,Arsenic,0.000000
+SolarCSP-tower,Baryte,0.000000
+SolarCSP-tower,Beryllium,0.000000
+SolarCSP-tower,Bismuth,0.000000
+SolarCSP-tower,Borate,0.000000
+SolarCSP-tower,Boron,0.000000
+SolarCSP-tower,Cadmium,0.000000
+SolarCSP-tower,Cerium (REE),0.000000
+SolarCSP-tower,Chromium,3700.000000
+SolarCSP-tower,Cobalt,0.000000
+SolarCSP-tower,Copper,1400.000000
+SolarCSP-tower,Dysprosium (REE),0.000000
+SolarCSP-tower,Erbium (REE),0.000000
+SolarCSP-tower,Europium (REE),0.000000
+SolarCSP-tower,Fluorspar,0.000000
+SolarCSP-tower,Gadolinium (REE),0.000000
+SolarCSP-tower,Gallium,0.000000
+SolarCSP-tower,Germanium,0.000000
+SolarCSP-tower,Gold,0.000000
+SolarCSP-tower,Graphite,0.000000
+SolarCSP-tower,Hafnium,0.000000
+SolarCSP-tower,Helium,0.000000
+SolarCSP-tower,Holmium (REE),0.000000
+SolarCSP-tower,Indium,0.000000
+SolarCSP-tower,Iridium,0.000000
+SolarCSP-tower,Iron,0.000000
+SolarCSP-tower,Lanthanum (REE),0.000000
+SolarCSP-tower,Lead,0.000000
+SolarCSP-tower,Lithium,0.000000
+SolarCSP-tower,Lutetium (REE),0.000000
+SolarCSP-tower,Magnesium,2600.000000
+SolarCSP-tower,Manganese,5700.000000
+SolarCSP-tower,Molybdenum,56.000000
+SolarCSP-tower,Neodymium (REE),0.000000
+SolarCSP-tower,Nickel,1800.000000
+SolarCSP-tower,Niobium,140.000000
+SolarCSP-tower,Palladium,0.000000
+SolarCSP-tower,Phosphate rock,0.000000
+SolarCSP-tower,Phosphorus,0.000000
+SolarCSP-tower,Platinum,0.000000
+SolarCSP-tower,Praseodymium (REE),0.000000
+SolarCSP-tower,Rhenium,0.000000
+SolarCSP-tower,Rhodium,0.000000
+SolarCSP-tower,Ruthenium,0.000000
+SolarCSP-tower,Samarium (REE),0.000000
+SolarCSP-tower,Scandium (REE),0.000000
+SolarCSP-tower,Selenium,0.000000
+SolarCSP-tower,Silicon,0.000000
+SolarCSP-tower,Silver,12.000000
+SolarCSP-tower,Steel,393000.000000
+SolarCSP-tower,Tantalum,0.000000
+SolarCSP-tower,Tellurium,0.000000
+SolarCSP-tower,Terbium (REE),0.000000
+SolarCSP-tower,Thulium,0.000000
+SolarCSP-tower,Tin,0.000000
+SolarCSP-tower,Titanium,0.000000
+SolarCSP-tower,Tungsten,0.000000
+SolarCSP-tower,Vanadium,2.000000
+SolarCSP-tower,Yetterbium (REE),0.000000
+SolarCSP-tower,Yttrium (REE),0.000000
+SolarCSP-tower,Zinc,1400.000000
+SolarCSP-tower,Zirconium,0.000000
+Ocean,Aluminum,27500.000000
+Ocean,Antimony,0.000000
+Ocean,Arsenic,0.000000
+Ocean,Baryte,0.000000
+Ocean,Beryllium,0.000000
+Ocean,Bismuth,0.000000
+Ocean,Borate,0.000000
+Ocean,Boron,0.000000
+Ocean,Cadmium,0.000000
+Ocean,Cerium (REE),0.000000
+Ocean,Chromium,0.000000
+Ocean,Cobalt,0.000000
+Ocean,Copper,15000.000000
+Ocean,Dysprosium (REE),0.000000
+Ocean,Erbium (REE),0.000000
+Ocean,Europium (REE),0.000000
+Ocean,Fluorspar,0.000000
+Ocean,Gadolinium (REE),0.000000
+Ocean,Gallium,0.000000
+Ocean,Germanium,0.000000
+Ocean,Gold,0.000000
+Ocean,Graphite,0.000000
+Ocean,Hafnium,0.000000
+Ocean,Helium,0.000000
+Ocean,Holmium (REE),0.000000
+Ocean,Indium,0.000000
+Ocean,Iridium,0.000000
+Ocean,Iron,0.000000
+Ocean,Lanthanum (REE),0.000000
+Ocean,Lead,0.000000
+Ocean,Lithium,0.000000
+Ocean,Lutetium (REE),0.000000
+Ocean,Magnesium,0.000000
+Ocean,Manganese,0.000000
+Ocean,Molybdenum,0.000000
+Ocean,Neodymium (REE),0.000000
+Ocean,Nickel,0.000000
+Ocean,Niobium,0.000000
+Ocean,Palladium,0.000000
+Ocean,Phosphate rock,0.000000
+Ocean,Phosphorus,0.000000
+Ocean,Platinum,0.000000
+Ocean,Praseodymium (REE),0.000000
+Ocean,Rhenium,0.000000
+Ocean,Rhodium,0.000000
+Ocean,Ruthenium,0.000000
+Ocean,Samarium (REE),0.000000
+Ocean,Scandium (REE),0.000000
+Ocean,Selenium,0.000000
+Ocean,Silicon,0.000000
+Ocean,Silver,0.000000
+Ocean,Steel,410000.000000
+Ocean,Tantalum,0.000000
+Ocean,Tellurium,0.000000
+Ocean,Terbium (REE),0.000000
+Ocean,Thulium,0.000000
+Ocean,Tin,0.000000
+Ocean,Titanium,0.000000
+Ocean,Tungsten,0.000000
+Ocean,Vanadium,0.000000
+Ocean,Yetterbium (REE),0.000000
+Ocean,Yttrium (REE),0.000000
+Ocean,Zinc,0.000000
+Ocean,Zirconium,0.000000
+Stationary Li-ion batteries,Aluminum,6433.670048
+Stationary Li-ion batteries,Antimony,0.000000
+Stationary Li-ion batteries,Arsenic,0.000000
+Stationary Li-ion batteries,Baryte,0.000000
+Stationary Li-ion batteries,Beryllium,0.000000
+Stationary Li-ion batteries,Bismuth,0.000000
+Stationary Li-ion batteries,Borate,0.000000
+Stationary Li-ion batteries,Boron,0.000000
+Stationary Li-ion batteries,Cadmium,0.000000
+Stationary Li-ion batteries,Cerium (REE),0.000000
+Stationary Li-ion batteries,Chromium,598.882893
+Stationary Li-ion batteries,Cobalt,680.250105
+Stationary Li-ion batteries,Copper,4674.824272
+Stationary Li-ion batteries,Dysprosium (REE),14.100281
+Stationary Li-ion batteries,Erbium (REE),0.000000
+Stationary Li-ion batteries,Europium (REE),0.000000
+Stationary Li-ion batteries,Fluorspar,0.000000
+Stationary Li-ion batteries,Gadolinium (REE),0.000000
+Stationary Li-ion batteries,Gallium,0.000000
+Stationary Li-ion batteries,Germanium,0.000000
+Stationary Li-ion batteries,Gold,0.000000
+Stationary Li-ion batteries,Graphite,0.000000
+Stationary Li-ion batteries,Hafnium,0.000000
+Stationary Li-ion batteries,Helium,0.000000
+Stationary Li-ion batteries,Holmium (REE),0.000000
+Stationary Li-ion batteries,Indium,0.000000
+Stationary Li-ion batteries,Iridium,0.000000
+Stationary Li-ion batteries,Iron,45964.893786
+Stationary Li-ion batteries,Lanthanum (REE),0.000000
+Stationary Li-ion batteries,Lead,15.666979
+Stationary Li-ion batteries,Lithium,342.045521
+Stationary Li-ion batteries,Lutetium (REE),0.000000
+Stationary Li-ion batteries,Magnesium,10.107728
+Stationary Li-ion batteries,Manganese,1821.918000
+Stationary Li-ion batteries,Molybdenum,0.000000
+Stationary Li-ion batteries,Neodymium (REE),48.971943
+Stationary Li-ion batteries,Nickel,1748.081046
+Stationary Li-ion batteries,Niobium,0.000000
+Stationary Li-ion batteries,Palladium,0.000000
+Stationary Li-ion batteries,Phosphate rock,0.000000
+Stationary Li-ion batteries,Phosphorus,0.000000
+Stationary Li-ion batteries,Platinum,0.000000
+Stationary Li-ion batteries,Praseodymium (REE),0.050539
+Stationary Li-ion batteries,Rhenium,0.000000
+Stationary Li-ion batteries,Rhodium,0.000000
+Stationary Li-ion batteries,Ruthenium,0.000000
+Stationary Li-ion batteries,Samarium (REE),0.000000
+Stationary Li-ion batteries,Scandium (REE),0.000000
+Stationary Li-ion batteries,Selenium,0.000000
+Stationary Li-ion batteries,Silicon,0.000000
+Stationary Li-ion batteries,Silver,0.000000
+Stationary Li-ion batteries,Steel,0.000000
+Stationary Li-ion batteries,Tantalum,0.000000
+Stationary Li-ion batteries,Tellurium,0.000000
+Stationary Li-ion batteries,Terbium (REE),0.000000
+Stationary Li-ion batteries,Thulium,0.000000
+Stationary Li-ion batteries,Tin,0.000000
+Stationary Li-ion batteries,Titanium,0.000000
+Stationary Li-ion batteries,Tungsten,0.000000
+Stationary Li-ion batteries,Vanadium,0.000000
+Stationary Li-ion batteries,Yetterbium (REE),0.000000
+Stationary Li-ion batteries,Yttrium (REE),0.000000
+Stationary Li-ion batteries,Zinc,5.053864
+Stationary Li-ion batteries,Zirconium,0.000000
+EV Li-ion batteries,Aluminum,6433.670048
+EV Li-ion batteries,Antimony,0.000000
+EV Li-ion batteries,Arsenic,0.000000
+EV Li-ion batteries,Baryte,0.000000
+EV Li-ion batteries,Beryllium,0.000000
+EV Li-ion batteries,Bismuth,0.000000
+EV Li-ion batteries,Borate,0.000000
+EV Li-ion batteries,Boron,0.000000
+EV Li-ion batteries,Cadmium,0.000000
+EV Li-ion batteries,Cerium (REE),0.000000
+EV Li-ion batteries,Chromium,598.882893
+EV Li-ion batteries,Cobalt,680.250105
+EV Li-ion batteries,Copper,4674.824272
+EV Li-ion batteries,Dysprosium (REE),14.100281
+EV Li-ion batteries,Erbium (REE),0.000000
+EV Li-ion batteries,Europium (REE),0.000000
+EV Li-ion batteries,Fluorspar,0.000000
+EV Li-ion batteries,Gadolinium (REE),0.000000
+EV Li-ion batteries,Gallium,0.000000
+EV Li-ion batteries,Germanium,0.000000
+EV Li-ion batteries,Gold,0.000000
+EV Li-ion batteries,Graphite,0.000000
+EV Li-ion batteries,Hafnium,0.000000
+EV Li-ion batteries,Helium,0.000000
+EV Li-ion batteries,Holmium (REE),0.000000
+EV Li-ion batteries,Indium,0.000000
+EV Li-ion batteries,Iridium,0.000000
+EV Li-ion batteries,Iron,45964.893786
+EV Li-ion batteries,Lanthanum (REE),0.000000
+EV Li-ion batteries,Lead,15.666979
+EV Li-ion batteries,Lithium,342.045521
+EV Li-ion batteries,Lutetium (REE),0.000000
+EV Li-ion batteries,Magnesium,10.107728
+EV Li-ion batteries,Manganese,1821.918000
+EV Li-ion batteries,Molybdenum,0.000000
+EV Li-ion batteries,Neodymium (REE),48.971943
+EV Li-ion batteries,Nickel,1748.081046
+EV Li-ion batteries,Niobium,0.000000
+EV Li-ion batteries,Palladium,0.000000
+EV Li-ion batteries,Phosphate rock,0.000000
+EV Li-ion batteries,Phosphorus,0.000000
+EV Li-ion batteries,Platinum,0.000000
+EV Li-ion batteries,Praseodymium (REE),0.050539
+EV Li-ion batteries,Rhenium,0.000000
+EV Li-ion batteries,Rhodium,0.000000
+EV Li-ion batteries,Ruthenium,0.000000
+EV Li-ion batteries,Samarium (REE),0.000000
+EV Li-ion batteries,Scandium (REE),0.000000
+EV Li-ion batteries,Selenium,0.000000
+EV Li-ion batteries,Silicon,0.000000
+EV Li-ion batteries,Silver,0.000000
+EV Li-ion batteries,Steel,0.000000
+EV Li-ion batteries,Tantalum,0.000000
+EV Li-ion batteries,Tellurium,0.000000
+EV Li-ion batteries,Terbium (REE),0.000000
+EV Li-ion batteries,Thulium,0.000000
+EV Li-ion batteries,Tin,0.000000
+EV Li-ion batteries,Titanium,0.000000
+EV Li-ion batteries,Tungsten,0.000000
+EV Li-ion batteries,Vanadium,0.000000
+EV Li-ion batteries,Yetterbium (REE),0.000000
+EV Li-ion batteries,Yttrium (REE),0.000000
+EV Li-ion batteries,Zinc,5.053864
+EV Li-ion batteries,Zirconium,0.000000
