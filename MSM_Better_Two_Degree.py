@@ -144,7 +144,7 @@ for i in range(numberOfTech):
         counterTotalNumberOfTech = counterTotalNumberOfTech + 1
     else:
         tempSubTechVar = pd.read_excel(
-            r".\model_minerals\Inputs\two_degree\techShares.xlsx",
+            r".\minesmineralmodel\Inputs\two_degree\techShares.xlsx",
             sheet_name=subTechArray[i][0],
         )
         subTechNames = list(tempSubTechVar.columns)
@@ -178,7 +178,7 @@ matFlowOut = np.zeros([numberOfYears, len(mineralList), numberOfTech], dtype=flo
 for i in range(0, numberOfTech):
 
     jin = techInflow[:, i]  # selects inflows for all years for i-column technology
-    jout = techOutflow[:, i]  # selects inflows for all years for i-column technology
+    jout = techOutflow[:, i]  # selects outflow for all years for i-column technology
     k = techIntensityNP[i, :]  # selects techIntensity for all years in the i-row
 
     for m in range(0, numberOfYears):
@@ -394,6 +394,7 @@ for i in range(0, len(mineralList)):
         cumVirginMarketSizeMed[i][j] = h2
         cumVirginMarketSizeHigh[i][j] = h3
 
+###MODEL COMPLETE - the below code only cleans spreadsheets to make it easier to visualize###
 ###Creating the formatted PowerBi tables###
 
 # Clean the energy scenerio
