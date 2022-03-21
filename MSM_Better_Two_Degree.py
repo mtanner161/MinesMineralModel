@@ -397,6 +397,25 @@ for i in range(0, len(mineralList)):
 ###MODEL COMPLETE - the below code only cleans spreadsheets to make it easier to visualize###
 ###Creating the formatted PowerBi tables###
 
+
+mineralListPandas = []
+subMineralList = mineralList.to_numpy()
+
+for i in range(0, len(mineralList)):
+    mineralName = subMineralList[i][0]
+    mineralListPandas.append(mineralName)
+
+
+cleanDemandPandas = pd.DataFrame(totalMatFlowInVirgin, columns=mineralListPandas)
+
+cleanDemandPandas.to_excel(
+    r"C:\Users\MichaelTanner\Documents\code_doc\minesmineralmodel\outputs\two_degree\cleanPandasTest.xlsx"
+)
+
+print(type(mineralList))
+print(type(subMineralList))
+
+
 # Clean the energy scenerio
 fp = open(
     "./minesmineralmodel/outputs/two_degree/cleanIeaPowerBi.csv", "w"
