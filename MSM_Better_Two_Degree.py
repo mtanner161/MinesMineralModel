@@ -22,40 +22,41 @@ from datetime import datetime
 def MFA(yearK, yearY):
     ratio = yearK / yearY
     constant = 3.5  # assumption
-    mfaValue = (constant / yearY) * pow(ratio, 2.5) * math.exp(-pow(ratio, constant))
+    mfaValue = (constant / yearY) * pow(ratio, 2.5) * \
+        math.exp(-pow(ratio, constant))
     return mfaValue
 
 
 # import
 techList = pd.read_excel(
-    r".\minesmineralmodel\Inputs\two_degree\techListXls.xlsx"
+    r"./minesmineralmodel/Inputs/two_degree/techListXls.xlsx"
 )  # Technology List (oil, gas etc...)
 mineralList = pd.read_excel(
-    r".\minesmineralmodel\Inputs\two_degree\mineralListXls.xlsx"
+    r"./minesmineralmodel/Inputs/two_degree/mineralListXls.xlsx"
 )  # Mineral List of raw minerals being used
 energyScenario = pd.read_excel(
-    r".\minesmineralmodel\Inputs\two_degree\energyScenerio_IEABeyond2Degree.xlsx"
+    r"./minesmineralmodel/Inputs/two_degree/energyScenerio_IEABeyond2Degree.xlsx"
 )  # Energy Secenario being tested
 lifetime = pd.read_excel(
-    r".\minesmineralmodel\Inputs\two_degree\lifetime.xlsx"
+    r"./minesmineralmodel/Inputs/two_degree/lifetime.xlsx"
 )  # Lifetime of Each technology MUST MATCH
 techShares = pd.read_excel(
-    r".\minesmineralmodel\Inputs\two_degree\techShares.xlsx", sheet_name=0
+    r"./minesmineralmodel/Inputs/two_degree/techShares.xlsx", sheet_name=0
 )  # reads in the sub-tech breakdown - indexed to first tab in the sheet
 currentProd = pd.read_excel(
-    r".\minesmineralmodel\Inputs\two_degree\currentMineralProduction.xlsx"
+    r"./minesmineralmodel/Inputs/two_degree/currentMineralProduction.xlsx"
 )  # reads in current mineral production
 techIntensity = pd.read_excel(
-    r".\minesmineralmodel\Inputs\two_degree\currentTechIntensity.xlsx"
+    r"./minesmineralmodel/Inputs/two_degree/currentTechIntensity.xlsx"
 )  # reads in latest Tech Intensity
 recycleRates = pd.read_excel(
-    r".\minesmineralmodel\Inputs\two_degree\recycleRates.xlsx"
+    r"./minesmineralmodel/Inputs/two_degree/recycleRates.xlsx"
 )  # reads in recycle rates for each of the minerals
 mineralMetalConvert = pd.read_excel(
-    r".\minesmineralmodel\Inputs\two_degree\metalMineralConvert.xlsx"
+    r"./minesmineralmodel/Inputs/two_degree/metalMineralConvert.xlsx"
 )  # read in metal to mineral conversion
 mineralPrice = pd.read_excel(
-    r".\minesmineralmodel\Inputs\two_degree\mineralPrice.xlsx"
+    r"./minesmineralmodel/Inputs/two_degree/mineralPrice.xlsx"
 )  # read in mineralPrice
 
 
@@ -120,7 +121,8 @@ outflowTotal = inflowTotal - deltaES
 
 # Breakdown of Flows between different subtypes
 
-subTechArray = techShares.to_numpy()  # coverts techShares to an array for calculations
+# coverts techShares to an array for calculations
+subTechArray = techShares.to_numpy()
 sumTechArray = np.sum(subTechArray[:, 1], 0)
 # creating our inflow and outflow tables that will expand with
 techInflow = np.zeros([numberOfYears, sumTechArray], dtype=float)
@@ -129,7 +131,8 @@ techOutflow = np.zeros([numberOfYears, sumTechArray], dtype=float)
 subTechInflow = np.zeros([numberOfYears, 1])
 subTechOutflow = np.zeros([numberOfYears, 1])
 
-counterTotalNumberOfTech = 0  # counter for upcoming for loop (needs to be different than numberOfTech because we are increasing to new value)
+# counter for upcoming for loop (needs to be different than numberOfTech because we are increasing to new value)
+counterTotalNumberOfTech = 0
 
 totalTechList = []  # empty array used for
 
@@ -138,13 +141,14 @@ for i in range(numberOfTech):
 
     # checks sub technolgoy array to see if any sub tech's exist
     if subTechArray[i][1] == 1:
-        techInflow[:, counterTotalNumberOfTech] = inflowTotal[:, i]  # take entire
+        # take entire
+        techInflow[:, counterTotalNumberOfTech] = inflowTotal[:, i]
         techOutflow[:, counterTotalNumberOfTech] = outflowTotal[:, i]
         totalTechList.append(subTechArray[i][0])
         counterTotalNumberOfTech = counterTotalNumberOfTech + 1
     else:
         tempSubTechVar = pd.read_excel(
-            r".\minesmineralmodel\Inputs\two_degree\techShares.xlsx",
+            r"./minesmineralmodel/Inputs/two_degree/techShares.xlsx",
             sheet_name=subTechArray[i][0],
         )
         subTechNames = list(tempSubTechVar.columns)
@@ -153,33 +157,42 @@ for i in range(numberOfTech):
         # adding the new subtech to the inflow table
         for subTech in range(subTechArray[i][1]):
             for j in range(numberOfYears):
-                subTechInflow[j] = inflowTotal[j][i] * tempSubTechVar[j][subTech]
-                subTechOutflow[j] = outflowTotal[j][i] * tempSubTechVar[j][subTech]
+                subTechInflow[j] = inflowTotal[j][i] * \
+                    tempSubTechVar[j][subTech]
+                subTechOutflow[j] = outflowTotal[j][i] * \
+                    tempSubTechVar[j][subTech]
 
-            totalTechList.append(subTechArray[i][0] + "-" + subTechNames[subTech])
+            totalTechList.append(
+                subTechArray[i][0] + "-" + subTechNames[subTech])
 
             techInflow[:, counterTotalNumberOfTech] = subTechInflow[:, 0]
             techOutflow[:, counterTotalNumberOfTech] = subTechOutflow[:, 0]
             counterTotalNumberOfTech = counterTotalNumberOfTech + 1
 
-numberOfTech = counterTotalNumberOfTech  # sets the new total number of technology variation to be used in later calculations
+# sets the new total number of technology variation to be used in later calculations
+numberOfTech = counterTotalNumberOfTech
 
 techIntensityNP = techIntensity.to_numpy()  # changes to array for calculations
-techIntensityNP = techIntensityNP[:, 1 : len(mineralList) + 1]
+techIntensityNP = techIntensityNP[:, 1: len(mineralList) + 1]
 
 
 # setting up blank arrays for upcoming loop
 B = np.zeros([numberOfYears, len(mineralList)], dtype=float)
 Bout = np.zeros([numberOfYears, len(mineralList)], dtype=float)
-matFlow = np.zeros([numberOfYears, len(mineralList), numberOfTech], dtype=float)
-matFlowOut = np.zeros([numberOfYears, len(mineralList), numberOfTech], dtype=float)
+matFlow = np.zeros(
+    [numberOfYears, len(mineralList), numberOfTech], dtype=float)
+matFlowOut = np.zeros(
+    [numberOfYears, len(mineralList), numberOfTech], dtype=float)
 
 # Looping over each technology and creating material demand per year
 for i in range(0, numberOfTech):
 
-    jin = techInflow[:, i]  # selects inflows for all years for i-column technology
-    jout = techOutflow[:, i]  # selects outflow for all years for i-column technology
-    k = techIntensityNP[i, :]  # selects techIntensity for all years in the i-row
+    # selects inflows for all years for i-column technology
+    jin = techInflow[:, i]
+    # selects outflow for all years for i-column technology
+    jout = techOutflow[:, i]
+    # selects techIntensity for all years in the i-row
+    k = techIntensityNP[i, :]
 
     for m in range(0, numberOfYears):
         for n in range(0, len(mineralList)):
@@ -199,8 +212,10 @@ for i in range(0, numberOfTech):
 matFlowIn = np.copy(matFlow, order="C", subok=True)
 matFlowIn[matFlowIn < 0] = 0  # removes any negative and replaces with zero
 # creating arrays for upcoming loops
-matFlowOutPre = np.zeros([numberOfYears, len(mineralList), numberOfTech], dtype=float)
-matFlowOutFinal = np.zeros([numberOfYears, len(mineralList), numberOfTech], dtype=float)
+matFlowOutPre = np.zeros(
+    [numberOfYears, len(mineralList), numberOfTech], dtype=float)
+matFlowOutFinal = np.zeros(
+    [numberOfYears, len(mineralList), numberOfTech], dtype=float)
 totalMatFlowIn = np.zeros([numberOfYears, len(mineralList)], dtype=float)
 totalMatFlowOut = np.zeros([numberOfYears, len(mineralList)], dtype=float)
 
@@ -214,7 +229,8 @@ for i in range(0, numberOfYears):
             else:
                 matFlowOutPre[i][j][k] = 0
 
-            matFlowOutFinal[i][j][k] = matFlowOut[i][j][k] + matFlowOutPre[i][j][k]
+            matFlowOutFinal[i][j][k] = matFlowOut[i][j][k] + \
+                matFlowOutPre[i][j][k]
 
 # sum of matFlow for totalMatFlowIn/Out
 for i in range(0, numberOfYears):
@@ -252,7 +268,8 @@ for i in range(0, numberOfYears):
 
 
 # sets up our virgin
-matFlowInVirgin = np.zeros([numberOfYears, len(mineralList), numberOfTech], dtype=float)
+matFlowInVirgin = np.zeros(
+    [numberOfYears, len(mineralList), numberOfTech], dtype=float)
 
 # use RR rates to split demand in virgin (new) and recylced production
 for i in range(0, numberOfYears):
@@ -319,7 +336,8 @@ for i in range(0, len(mineralList)):
 
 # convert our mineralPrice to an array for calculations
 mineralPriceArray = mineralPrice.to_numpy()
-mineralPriceArray = np.delete(mineralPriceArray, 0, axis=1)  # remove the first column
+mineralPriceArray = np.delete(
+    mineralPriceArray, 0, axis=1)  # remove the first column
 
 # setting our array for Market Size
 virginMarketSizeLow = np.zeros(
@@ -347,9 +365,12 @@ for i in range(0, numberOfYears):
             )
 
 
-totalVirginMarketSizeLow = np.zeros([numberOfYears, len(mineralList)], dtype=float)
-totalVirginMarketSizeMed = np.zeros([numberOfYears, len(mineralList)], dtype=float)
-totalVirginMarketSizeHigh = np.zeros([numberOfYears, len(mineralList)], dtype=float)
+totalVirginMarketSizeLow = np.zeros(
+    [numberOfYears, len(mineralList)], dtype=float)
+totalVirginMarketSizeMed = np.zeros(
+    [numberOfYears, len(mineralList)], dtype=float)
+totalVirginMarketSizeHigh = np.zeros(
+    [numberOfYears, len(mineralList)], dtype=float)
 
 # summing across all technologies for totalVirgin and RR tables in to one
 for i in range(0, numberOfYears):
@@ -370,9 +391,12 @@ for i in range(0, numberOfYears):
 
 
 # setting our cumulative market size for low, med and high
-cumVirginMarketSizeLow = np.zeros([len(mineralList), numberOfTech], dtype=float)
-cumVirginMarketSizeMed = np.zeros([len(mineralList), numberOfTech], dtype=float)
-cumVirginMarketSizeHigh = np.zeros([len(mineralList), numberOfTech], dtype=float)
+cumVirginMarketSizeLow = np.zeros(
+    [len(mineralList), numberOfTech], dtype=float)
+cumVirginMarketSizeMed = np.zeros(
+    [len(mineralList), numberOfTech], dtype=float)
+cumVirginMarketSizeHigh = np.zeros(
+    [len(mineralList), numberOfTech], dtype=float)
 
 # summing up market size by year
 for i in range(0, len(mineralList)):
@@ -406,10 +430,18 @@ for i in range(0, len(mineralList)):
     mineralListPandas.append(mineralName)
 
 
-cleanDemandPandas = pd.DataFrame(totalMatFlowInVirgin, columns=mineralListPandas)
+cleanDemandPandas = pd.DataFrame(
+    totalMatFlowInVirgin, columns=mineralListPandas)
+
+cleanMarketSizePandas = pd.DataFrame(
+    totalVirginMarketSizeMed, columns=mineralListPandas)
 
 cleanDemandPandas.to_excel(
-    r"C:\Users\MichaelTanner\Documents\code_doc\minesmineralmodel\outputs\two_degree\cleanPandasTest.xlsx"
+    r"./minesmineralmodel/outputs/two_degree/cleanDemandPandas.xlsx", index=False
+)
+
+cleanMarketSizePandas.to_excel(
+    r"./minesmineralmodel/outputs/two_degree/cleanMarketSize Pandas.xlsx", index=False
 )
 
 print(type(mineralList))
